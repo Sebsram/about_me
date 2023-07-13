@@ -11,4 +11,4 @@ Thank you for visiting my profile! My name is Sebastian and I am a passionate st
 - Data Preparation and Analysis.
 
 # My Projects :mortar_board:
-My [portfolio]() is constantly being updated. Please take a look at my projects and message me if you have any questions!
+My [portfolio](https://github.com/Sebsram/my_portfolio/blob/main/README.md) is constantly being updated. Please take a look at my projects and message me if you have any questions!
